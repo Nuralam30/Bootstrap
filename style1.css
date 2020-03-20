@@ -1,0 +1,25 @@
+.menu{
+	float: left;
+	font-size: 17px;
+	background: #11095c;
+	width: 100%;
+}
+.menu ul{
+	padding-left: 0;
+	margin: 0;
+}
+.menu li{
+	float:left;
+	list-style:none;
+	position: relative;
+}
+.menu li a{
+	display: inline-block;
+	padding: 10px 30px;
+	text-decoration: none;
+	transition: all .25s; 
+}
+.menu li a:hover{
+	color: #5c53b8;
+	
+}
