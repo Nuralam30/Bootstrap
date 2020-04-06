@@ -12,3 +12,20 @@
 	<div class="custom-file">
 	    <input type="file" class="custom-file-input" id="customFile">
 	    <label class="custom-file-label" for="customFile">Choose file</label>
+
+***Grid system**
+to make columns for table information or other information
+
+<!-- Two columns: 50% width on all screens, except for extra small (100% width) -->
+<div class="row">
+  <div class="col-sm">1 of 2</div>
+  <div class="col-sm">2 of 2</div>
+</div>
+
+<!-- Four columns: 25% width on all screens, except for extra small (100% width)-->
+<div class="row">
+  <div class="col-sm">1 of 4</div>
+  <div class="col-sm">2 of 4</div>
+  <div class="col-sm">3 of 4</div>
+  <div class="col-sm">4 of 4</div>
+</div>
