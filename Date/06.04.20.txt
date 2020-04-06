@@ -1,0 +1,14 @@
+**form input group,custom forms,coarousel***
+<select name="cars" class="custom-select mb-3">
+      <option selected>Custom Select Menu</option>
+      <option value="volvo">Volvo</option>
+      <option value="fiat">Fiat</option>
+      <option value="audi">Audi</option>
+    </select>
+
+	    <label for="customRange">Custom range</label>
+	  	<input type="range" class="custom-range" id="customRange" name="points1">
+
+	<div class="custom-file">
+	    <input type="file" class="custom-file-input" id="customFile">
+	    <label class="custom-file-label" for="customFile">Choose file</label>
